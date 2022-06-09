@@ -1,4 +1,4 @@
 Hello :)
 
-- 👀 Studying CyberSecurity and living... 💻
+- 💻 Studying CyberSecurity and living... 
 
