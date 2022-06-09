@@ -1,5 +1,4 @@
 Hello :)
 
-- 👋 Hi, I’m @Luffyz13
-- 👀 Studying CyberSecurity
+- 👀 Studying CyberSecurity and living... 💻
 
